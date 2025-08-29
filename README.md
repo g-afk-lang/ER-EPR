@@ -1,1 +1,1 @@
-Before the photon's quantum spin collapses, a blocking apparatus is placed over one of the slits, and the wave does not collapse into a wave function. Emission and absorption are symmetric so atoms can't lie about how they get their energy. This doesn't happen at absolute zero.
+Before the photon's quantum spin collapses, a blocking apparatus is placed over one of the slits, and the wave does not collapse into a wave function. Emission and absorption are symmetric so atoms can't lie about how they get their energy.
