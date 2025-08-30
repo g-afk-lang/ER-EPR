@@ -26,9 +26,13 @@ Condition A (No Measurement): One electron is sent toward the double-slit appara
 
 Condition B (Measurement): The blocking apparatus is used, or a detector is placed at one slit. This constitutes a "which-path" measurement.
 
-The Control: The second entangled electron is sent to a separate measurement device that also measures its spin.
+The Control:
 
-The Hypothesis: The theory proposes that when a which-path measurement is made on the first electron, its entangled partner will instantaneously "know" about this measurement. This will cause the spin of an atom in the second measurement device to flip, resulting in an instantaneous and measurable change in a local magnetic field. The total spin of the system would be different in the measured vs. unmeasured conditions (a spin of 1 without a which-path measurement is proposed).
+The second entangled electron is sent to a separate measurement device that also measures its spin.
+
+The Hypothesis:
+
+The theory proposes that when a which-path measurement is made on the first electron, its entangled partner will instantaneously "know" about this measurement. This will cause the spin of an atom in the second measurement device to flip, resulting in an instantaneous and measurable change in a local magnetic field. The total spin of the system would be different in the measured vs. unmeasured conditions (a spin of 1 without a which-path measurement is proposed).
 
 What This DIY Project Involves:
 
