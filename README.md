@@ -12,7 +12,7 @@ The central idea is to manipulate whether a quantum wave function collapses by s
 
 Quantum Spin as Information:
 
- The experiment uses the spin of relativistic electrons (spin-1/2 particles) as the key variable. The hypothesis is that the combined spin state of an entangled pair will change depending on whether a measurement is performed.
+The experiment uses the spin of relativistic electrons (spin-1/2 particles) as the key variable. The hypothesis is that the combined spin state of an entangled pair will change depending on whether a measurement is performed.
 
 Entanglement and Non-Locality:
 
