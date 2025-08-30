@@ -1,7 +1,9 @@
-Project Overview
+Project Overview:
+
 This project explores a theoretical setup designed to test the fundamental connection between quantum measurement, electron spin, and entanglement. The experiment is based on a modified double-slit apparatus that uses entangled electrons to investigate how a "which-path" measurement influences quantum spin and creates an observable change in a magnetic field.
 
-Core Principles Being Tested
+Core Principles Being Tested:
+
 This thought experiment touches on several advanced quantum concepts:
 
 Wave-Function Collapse The central idea is to manipulate whether a quantum wave function collapses by selectively blocking one path in a double-slit experiment before a measurement is made.
@@ -12,7 +14,8 @@ Entanglement and Non-Locality The setup relies on a pair of entangled electrons 
 
 Symmetry in Quantum Interactions The principle that emission and absorption are symmetric processes is used to justify that the energy state of an atom is a true reflection of the quantum information it has received.
 
-The Experimental Design 
+The Experimental Design:
+ 
 The Source: Generate pairs of entangled electrons. These electrons are in a state of superposition, where their spins are linked but individually undefined until measured. The total spin of the pair is controlled.
 
 The Apparatus: A double-slit setup is used for one electron of the entangled pair. A key feature is a "blocking apparatus" that can be placed over one slit to prevent the electron from passing through it.
@@ -27,7 +30,8 @@ The Control: The second entangled electron is sent to a separate measurement dev
 
 The Hypothesis: The theory proposes that when a which-path measurement is made on the first electron, its entangled partner will instantaneously "know" about this measurement. This will cause the spin of an atom in the second measurement device to flip, resulting in an instantaneous and measurable change in a local magnetic field. The total spin of the system would be different in the measured vs. unmeasured conditions (a spin of 1 without a which-path measurement is proposed).
 
-What This DIY Project Involves
+What This DIY Project Involves:
+
 The physical realization of this experiment requires equipment typical to a garage setup, this DIY project is about:
 
 Theoretical Modeling: Developing the mathematical framework for the proposed interactions.
