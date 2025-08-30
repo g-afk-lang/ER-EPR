@@ -6,13 +6,21 @@ Core Principles Being Tested:
 
 This thought experiment touches on several advanced quantum concepts:
 
-Wave-Function Collapse The central idea is to manipulate whether a quantum wave function collapses by selectively blocking one path in a double-slit experiment before a measurement is made.
+Wave-Function Collapse:
 
-Quantum Spin as Information The experiment uses the spin of relativistic electrons (spin-1/2 particles) as the key variable. The hypothesis is that the combined spin state of an entangled pair will change depending on whether a measurement is performed.
+The central idea is to manipulate whether a quantum wave function collapses by selectively blocking one path in a double-slit experiment before a measurement is made.
 
-Entanglement and Non-Locality The setup relies on a pair of entangled electrons in a superposition of opposite spins. The state of one electron is proposed to be instantaneously influenced by a measurement performed on the other, regardless of distance.
+Quantum Spin as Information:
 
-Symmetry in Quantum Interactions The principle that emission and absorption are symmetric processes is used to justify that the energy state of an atom is a true reflection of the quantum information it has received.
+ The experiment uses the spin of relativistic electrons (spin-1/2 particles) as the key variable. The hypothesis is that the combined spin state of an entangled pair will change depending on whether a measurement is performed.
+
+Entanglement and Non-Locality:
+
+The setup relies on a pair of entangled electrons in a superposition of opposite spins. The state of one electron is proposed to be instantaneously influenced by a measurement performed on the other, regardless of distance.
+
+Symmetry in Quantum Interactions:
+
+The principle that emission and absorption are symmetric processes is used to justify that the energy state of an atom is a true reflection of the quantum information it has received.
 
 The Experimental Design:
  
