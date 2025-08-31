@@ -1,0 +1,1 @@
+Electrons must be absorbed with zinc oxide powder on the floor of the bottle or they'll interfere with readouts. A modified beam splitting tube insertion with a beam forming electromagnetic coil around the bottleneck with an electromagnet and EMF sensor on either side.
