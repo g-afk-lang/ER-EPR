@@ -85,7 +85,7 @@
     <path d="M 570 470 Q 520 450 470 470" fill="none" stroke="#10b981" stroke-width="2" stroke-dasharray="5,3"/>
     
     <text x="610" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">
-      Electromagnet
+      MHz Electromagnet
     </text>
   </g>
   
