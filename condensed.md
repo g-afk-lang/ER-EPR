@@ -4,3 +4,5 @@ If the electron accelerator is switched off and the MHz electromagnet is turned 
 
 The beauty is if the EMF sensor and the MHz Electromagnet is close enough and a signal like a Fibonacci sequence is used, after calibration of course, then if ER = EPR then there'd be temporal cross talk.
 
+So to apply a matrix to an echo on any two steps to describe the quantum state, send a signal to the coil drive and the qubit will return a state vector via it's time evolution, the eigenvalues through the coil drive signal represent the Bloch sphere.
+
