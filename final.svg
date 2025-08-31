@@ -1,0 +1,151 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8f9fa"/>
+  
+  <!-- Main bottle -->
+  <g id="bottle">
+    <!-- Bottle body -->
+    <ellipse cx="400" cy="450" rx="120" ry="80" fill="#e6f3ff" stroke="#2563eb" stroke-width="3" opacity="0.8"/>
+    <rect x="280" y="370" width="240" height="160" fill="#e6f3ff" stroke="#2563eb" stroke-width="3" opacity="0.8"/>
+    
+    <!-- Bottleneck -->
+    <rect x="370" y="200" width="60" height="170" fill="#e6f3ff" stroke="#2563eb" stroke-width="3" opacity="0.8"/>
+    
+    <!-- Bottle opening -->
+    <ellipse cx="400" cy="200" rx="30" ry="8" fill="none" stroke="#2563eb" stroke-width="3"/>
+  </g>
+  
+  <g id="Anode">
+      <text x="400" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#92400e">
+      Anode ring (+) around bottleneck base
+    </text>
+  </g>
+  
+  <!-- Zinc oxide powder on floor -->
+  <g id="zinc-oxide">
+    <ellipse cx="400" cy="520" rx="100" ry="15" fill="#fbbf24" opacity="0.7"/>
+    <text x="400" y="560" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#92400e">
+      Zinc Oxide Powder (Electron Absorption)
+    </text>
+    <!-- Powder particles -->
+    <circle cx="350" cy="515" r="2" fill="#f59e0b"/>
+    <circle cx="380" cy="520" r="1.5" fill="#f59e0b"/>
+    <circle cx="420" cy="518" r="2" fill="#f59e0b"/>
+    <circle cx="450" cy="522" r="1.5" fill="#f59e0b"/>
+  </g>
+  
+  <!-- Beam splitting tube insertion -->
+  <g id="beam-splitter">
+    <rect x="385" y="120" width="30" height="80" fill="#94a3b8" stroke="#475569" stroke-width="2"/>
+    <text x="480" y="165" font-family="Arial, sans-serif" font-size="11" fill="#475569">
+      Beam Splitting Tube, with cathode (-)
+    </text>
+    <line x1="430" y1="160" x2="480" y2="160" stroke="#475569" stroke-width="1"/>
+    
+    <!-- Internal beam splitting elements -->
+    <line x1="390" y1="140" x2="410" y2="140" stroke="#dc2626" stroke-width="1"/>
+    <line x1="390" y1="160" x2="410" y2="160" stroke="#dc2626" stroke-width="1"/>
+    <line x1="390" y1="180" x2="410" y2="180" stroke="#dc2626" stroke-width="1"/>
+  </g>
+  
+  <!-- Electromagnetic coil around bottleneck -->
+  <g id="em-coil">
+    <!-- Coil windings -->
+    <g fill="none" stroke="#dc2626" stroke-width="3">
+      <ellipse cx="400" cy="220" rx="45" ry="8"/>
+      <ellipse cx="400" cy="235" rx="45" ry="8"/>
+      <ellipse cx="400" cy="250" rx="45" ry="8"/>
+      <ellipse cx="400" cy="265" rx="45" ry="8"/>
+      <ellipse cx="400" cy="280" rx="45" ry="8"/>
+      <ellipse cx="400" cy="295" rx="45" ry="8"/>
+      <ellipse cx="400" cy="310" rx="45" ry="8"/>
+      <ellipse cx="400" cy="325" rx="45" ry="8"/>
+    </g>
+    
+    <!-- Coil connections -->
+    <line x1="445" y1="220" x2="460" y2="220" stroke="#dc2626" stroke-width="3"/>
+    <line x1="355" y1="325" x2="340" y2="325" stroke="#dc2626" stroke-width="3"/>
+    
+    <text x="480" y="275" font-family="Arial, sans-serif" font-size="11" fill="#dc2626">
+      Beam Forming
+    </text>
+    <text x="480" y="290" font-family="Arial, sans-serif" font-size="11" fill="#dc2626">
+      EM Coil
+    </text>
+  </g>
+  
+  <!-- Right Electromagnet -->
+  <g id="right-electromagnet">
+    <rect x="570" y="440" width="80" height="40" fill="#6b7280" stroke="#374151" stroke-width="2" rx="5"/>
+    <rect x="580" y="450" width="60" height="20" fill="#ef4444" rx="3"/>
+    
+    <!-- Magnetic field lines -->
+    <path d="M 570 460 Q 520 440 470 460" fill="none" stroke="#10b981" stroke-width="2" stroke-dasharray="5,3"/>
+    <path d="M 570 450 Q 520 430 470 450" fill="none" stroke="#10b981" stroke-width="2" stroke-dasharray="5,3"/>
+    <path d="M 570 470 Q 520 450 470 470" fill="none" stroke="#10b981" stroke-width="2" stroke-dasharray="5,3"/>
+    
+    <text x="610" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#374151">
+      Electromagnet
+    </text>
+  </g>
+  
+  <!-- Left EMF Sensor -->
+  <g id="left-emf-sensor">
+    <rect x="200" y="450" width="50" height="30" fill="#8b5cf6" stroke="#7c3aed" stroke-width="2" rx="3"/>
+    <text x="225" y="495" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#7c3aed">
+      EMF Sensor
+    </text>
+    
+    <!-- Sensor readings -->
+    <rect x="205" y="455" width="40" height="5" fill="#34d399"/>
+    <rect x="205" y="462" width="25" height="5" fill="#fbbf24"/>
+    <rect x="205" y="469" width="35" height="5" fill="#60a5fa"/>
+  </g>
+  
+  <!-- Electron paths -->
+  <g id="electron-paths">
+    <defs>
+      <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+        <polygon points="0 0, 10 3.5, 0 7" fill="#f97316"/>
+      </marker>
+    </defs>
+    
+    <!-- Electrons being absorbed -->
+    <path d="M 380 400 Q 390 450 400 500" fill="none" stroke="#f97316" stroke-width="2" marker-end="url(#arrowhead)" stroke-dasharray="3,2"/>
+    <path d="M 420 400 Q 410 450 400 500" fill="none" stroke="#f97316" stroke-width="2" marker-end="url(#arrowhead)" stroke-dasharray="3,2"/>
+    <path d="M 360 420 Q 380 470 400 500" fill="none" stroke="#f97316" stroke-width="2" marker-end="url(#arrowhead)" stroke-dasharray="3,2"/>
+    
+    <text x="300" y="460" font-family="Arial, sans-serif" font-size="9" fill="#f97316">
+      Electrons absorbed
+    </text>
+    <text x="300" y="475" font-family="Arial, sans-serif" font-size="9" fill="#f97316">
+      by ZnO powder
+    </text>
+  </g>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1f2937">
+    Electromagnetic ER=EPR bottle (non-proportional)
+  </text>
+  
+  <!-- Legend -->
+  <g id="legend">
+    <rect x="50" y="50" width="200" height="120" fill="white" stroke="#d1d5db" stroke-width="1" rx="5"/>
+    <text x="60" y="70" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#1f2937">Components:</text>
+    
+    <line x1="60" y1="85" x2="75" y2="85" stroke="#2563eb" stroke-width="3"/>
+    <text x="85" y="90" font-family="Arial, sans-serif" font-size="10" fill="#1f2937">Glass Bottle</text>
+    
+    <line x1="60" y1="100" x2="75" y2="100" stroke="#dc2626" stroke-width="3"/>
+    <text x="85" y="105" font-family="Arial, sans-serif" font-size="10" fill="#1f2937">EM Coil</text>
+    
+    <line x1="60" y1="115" x2="75" y2="115" stroke="#10b981" stroke-width="2" stroke-dasharray="5,3"/>
+    <text x="85" y="120" font-family="Arial, sans-serif" font-size="10" fill="#1f2937">Magnetic Field</text>
+    
+    <circle cx="67" cy="135" r="3" fill="#fbbf24"/>
+    <text x="85" y="140" font-family="Arial, sans-serif" font-size="10" fill="#1f2937">ZnO Powder</text>
+    
+    <line x1="60" y1="150" x2="75" y2="150" stroke="#f97316" stroke-width="2" stroke-dasharray="3,2"/>
+    <text x="85" y="155" font-family="Arial, sans-serif" font-size="10" fill="#1f2937">Electron Path</text>
+  </g>
+</svg>
