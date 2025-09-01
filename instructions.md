@@ -32,7 +32,7 @@ This apparatus involves **high voltages, vacuum systems, and electromagnetic fie
 **Construction Steps:**
 1. **Machine cathode holder** with precise alignment
 2. **Install tungsten filament** with proper supports
-3. **Fabricate grid electrodes** with controlled spacing
+3. **Fabricate electrodes** with controlled spacing
 4. **Wire high-voltage connections** with proper isolation
 5. **Add electromagnetic focusing coils** if needed
 6. **Test electron beam formation** at low power
