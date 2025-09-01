@@ -6,3 +6,6 @@ The beauty is if the EMF sensor and the MHz electromagnet is close enough and a 
 
 So to apply a matrix to an echo on any two steps to describe the quantum state, send a signal to the coil drive and the qubit will return a state vector via it's time evolution, the eigenvalues through the coil drive signal represent the Bloch sphere.
 
+So essentially, the baseline signal takes time and the ER=EPR signal does not. If the baseline signal takes 1 second to reach the sensor the ER=EPR signal gets there instantly. I suppose a T-symmetry is involved from the moment of decision. Implying reality isn't constructed before it is quantized.
+
+
