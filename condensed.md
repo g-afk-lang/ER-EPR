@@ -8,4 +8,4 @@ So to apply a matrix to an echo on any two steps to describe the quantum state, 
 
 So essentially, the baseline signal takes time and the ER=EPR signal does not. If the baseline signal takes 1 second to reach the sensor the ER=EPR signal gets there instantly. I suppose a T-symmetry is involved from the moment of decision. Implying reality isn't constructed before it is quantized.
 
-If at point B is a null-lorentz conjugate of point A, point A must be negative for an observer at point B. So for observer A, something happens before their 'now' moment that isn't foreseeable that is not beyond the temporal evolution negation.
+If at point B is a null-lorentz conjugate of point A, point A must be negative for an observer at point B. So for observer A, something happens before their 'now' moment that isn't foreseeable and is not beyond temporal evolution negation.
