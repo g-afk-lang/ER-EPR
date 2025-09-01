@@ -1,4 +1,3 @@
-
 ## **Safety Warning**
 This apparatus involves **high voltages, vacuum systems, and electromagnetic fields**. Improper construction could result in serious injury or death. Professional expertise in electronics, vacuum technology, and safety protocols is essential.
 
@@ -52,7 +51,7 @@ This apparatus involves **high voltages, vacuum systems, and electromagnetic fie
 4. **Install field-shaping elements**
 5. **Calibrate splitting ratio**
 
-### **4. Zinc Oxide Ceramic/Polymer Enclosure**
+### **4. Zinc Oxide Ceramic/Polymer Insert**
 
 **Materials:**
 - Zinc oxide powder (high purity)
@@ -74,7 +73,7 @@ This apparatus involves **high voltages, vacuum systems, and electromagnetic fie
 2. Install pumping system and achieve base vacuum
 3. Perform leak detection and repairs
 
-### **Phase 2: Enclosure**
+### **Phase 2: Ceramic/Polymer Insert**
 1. Install ZnO ceramic/polymer housing
 2. Verify electromagnetic compatibility
 3. Complete system testing
