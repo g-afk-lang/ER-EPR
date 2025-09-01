@@ -74,7 +74,7 @@ This apparatus involves **high voltages, vacuum systems, and electromagnetic fie
 3. Perform leak detection and repairs
 
 ### **Phase 2: Ceramic/Polymer Insert**
-1. Install ZnO ceramic/polymer housing
+1. Install ZnO ceramic/polymer insert
 2. Verify electromagnetic compatibility
 3. Complete system testing
 
