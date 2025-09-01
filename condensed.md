@@ -8,4 +8,4 @@ So to apply a matrix to an echo on any two steps to describe the quantum state, 
 
 So essentially, the baseline signal takes time and the ER=EPR signal does not. If the baseline signal takes 1 second to reach the sensor the ER=EPR signal gets there instantly. I suppose a T-symmetry is involved from the moment of decision. Implying reality isn't constructed before it is quantized.
 
-
+If at point B is lorentz time then point A must be negative for an observer at point B.
